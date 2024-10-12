@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tanguy.verluise@gmail.com
+	name = Tanguy Verluise
